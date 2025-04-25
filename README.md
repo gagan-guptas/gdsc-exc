@@ -6,9 +6,6 @@ Table of Contents
 - Scalability
 - Setup Guide
 - Contribution Guidelines
-- License
-💙 Introduction
-SafeWeb is a browser extension that aims to promote healthy computer habits by helping users build the habit of following the 20-20-20 rule. With its customizable settings and user-friendly design, SafeWeb is a great addition to any computer user's toolkit.
 
 💡 Problem it solves
 I developed SafeWeb because I realize the negative effects of prolonged computer use on my vision and overall health. Studies have shown that regularly taking short breaks can reduce the risk of developing computer vision syndrome, which can lead to dry eyes, headaches, and blurred vision. [Reference Study]
@@ -33,7 +30,8 @@ Accessibility features: SafeWeb could be designed with accessibility features, s
 
 To start with setting up the Local Project Environment:
 
-```git clone https://github.com/gagan-guptas/gdsc-exc
+```
+git clone https://github.com/gagan-guptas/gdsc-exc
 
 Navigate to chrome://extensions/
 
